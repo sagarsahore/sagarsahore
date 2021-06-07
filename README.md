@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar Sahore</h1>
+<h1 align="center"> Sagar Sahore</h1>
 <h3 align="center">Passionate about problem-solving, competitive programming, leadership, and teamwork. Currently in my third year pursuing my bachelor degree in digital technology(software development) Loves challenging environments and keeps himself busy for Personal Growth and Leadership development, focused upon sharing the learnings with young enthusiasts who are keen on meeting like minded individual</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsahore&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsahore" /> </p>
