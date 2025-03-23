@@ -1,8 +1,9 @@
+<p align="left"> <img src="Designer.jpeg" alt="sagarsahore" /> </p>
 <h1 align="center"> Sagar Sahore</h1>
 <h3 align="center">Hi, I’m sagarsahore, a software developer and enthusiast. I enjoy learning new technologies and creating innovative solutions. I have experience in web development, data science, and machine learning. Some of the tools and languages I use are Python, JavaScript, HTML, CSS, React. I’m always open to new challenges and opportunities. Feel free to reach out to me via email or LinkedIn. You can also check out some of my projects and contributions on GitHub. Thanks for visiting my profile! 😊</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarsahore&label=Profile%20views&color=0e75b6&style=flat" alt="sagarsahore" /> </p>
-
+Designer.jpeg
 
 - 🌱 I’m currently learning **React**
 
